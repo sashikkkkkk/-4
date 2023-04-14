@@ -1,0 +1,66 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#za {
+font-family:'Times New Roman', Times, serif; 
+font-weight: bold;
+font-size: 150%;
+color: black;
+  
+}
+#za2 {
+font-family:'Times New Roman', Times, serif; 
+font-weight: bold;
+font-size: 120%;
+color: #47467c;
+  
+}
+p{font-size: 110%;}
+
+cite{font-size: 210%;}
+span.inlineBlock{
+     display:inline-block;
+     vertical-align:top;
+  }
+
+.child1{
+  width:420px;
+  background-color:#353531;
+  vertical-align:top;
+  height: 600px;
+
+  
+}
+.child2{
+  width:35%;
+  background-color:#88b988;
+  vertical-align:top;
+  height: 600px;
+  
+}
+.child3{
+  width:35%;
+  background-color:#ececb6;
+  vertical-align:top;
+  height: 600px; 
+}
+.child4{
+  width:60%;
+  background-color:#ffffff;
+  vertical-align:top;
+  height: 200px; 
+}
+
+
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+td {
+ text-align: center;
+}
+#r1
+{width: 300px;
+ margin: 0 auto;
+ display: block;}
